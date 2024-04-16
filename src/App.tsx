@@ -1,10 +1,12 @@
-import { Button } from './components/ui/button';
+import SiteFooter from '@/components/SiteFooter';
+import SiteHeader from '@/components/SiteHeader';
 
 const App = () => {
     return (
-        <div>
-            <Button>sdkjfhdks</Button>
-        </div>
+        <>
+            <SiteHeader />
+            <SiteFooter />
+        </>
     );
 };
 
