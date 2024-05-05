@@ -7,10 +7,10 @@ export const navList: INavItem[] = [
     },
     {
         label: 'Bolalar uchun',
-        path: '/for-children',
+        path: '/bolalar-uchun',
     },
     {
         label: 'Filiallar',
-        path: '/branchs',
+        path: '/filiallar',
     },
 ];
